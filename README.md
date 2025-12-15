@@ -2,7 +2,7 @@
 
 Crypto Keeper je interaktivna slagalica i avanturistička igra tematska oko Pi Networka, izgrađena u Next.js-u sa Shadcn UI komponentama za sučelje i Tailwind CSS-om za stiliziranje (ljubičaste/narančaste/zlatne boje). Igra simulira Sokoban-stil pomicanja kutija na mreži, sa razinama parsiranim iz stringova i potencijalnom integracijom Pi SDK-a za autentifikaciju korisnika i plaćanja nagrada na završetku razine. Ovo je edukativni projekt za istraživanje kripto ekosustava kroz zabavu.
 
-![Slagalica Screenshot](https://via.placeholder.com/800x400?text=Slagalica+Screenshot) <!-- Zamijenite sa stvarnim screenshot-om ili GIF-om igre -->
+![Slagalica Screenshot](<img width="933" height="835" alt="Screenshot 2025-12-15 142605" src="https://github.com/user-attachments/assets/7999392a-e7a1-48d7-9a9e-2fa6c6d7fa25" />).
 
 ## Značajke
 - **Slagalica Logika**: Pomicanje igrača i kutija sa strelicama, provjera pobjede (sve kutije na ciljevima), reset razine.

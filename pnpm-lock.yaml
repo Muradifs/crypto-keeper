@@ -10,11 +10,7 @@ importers:
     dependencies:
       '@hookform/resolvers':
         specifier: ^3.10.0
-<<<<<<< HEAD
         version: 3.10.0(react-hook-form@7.70.0(react@19.2.3))
-=======
-        version: 3.10.0(react-hook-form@7.68.0(react@19.2.3))
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
       '@radix-ui/react-accordion':
         specifier: 1.2.2
         version: 1.2.2(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -143,11 +139,7 @@ importers:
         version: 19.2.3(react@19.2.3)
       react-hook-form:
         specifier: ^7.60.0
-<<<<<<< HEAD
         version: 7.70.0(react@19.2.3)
-=======
-        version: 7.68.0(react@19.2.3)
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
       react-resizable-panels:
         specifier: ^2.1.7
         version: 2.1.9(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
@@ -163,14 +155,6 @@ importers:
       tailwindcss-animate:
         specifier: ^1.0.7
         version: 1.0.7(tailwindcss@4.1.18)
-      vaul:
-<<<<<<< HEAD
-        specifier: ^0.9.9
-        version: 0.9.9(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
-=======
-        specifier: ^1.1.2
-        version: 1.1.2(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
       zod:
         specifier: 3.25.67
         version: 3.25.67
@@ -213,13 +197,8 @@ packages:
   '@date-fns/tz@1.2.0':
     resolution: {integrity: sha512-LBrd7MiJZ9McsOgxqWX7AaxrDjcFVjWH/tIKJd7pnR7McaslGYOP1QmmiBXdJH/H/yLCT+rcQ7FaPBUxRGUtrg==}
 
-<<<<<<< HEAD
   '@emnapi/runtime@1.8.1':
     resolution: {integrity: sha512-mehfKSMWjjNol8659Z8KxEMrdSJDDot5SXMq00dM8BN4o+CLNXQ0xH2V7EchNHV4RmbZLmmPdEaXZc5H2FXmDg==}
-=======
-  '@emnapi/runtime@1.7.1':
-    resolution: {integrity: sha512-PVtJr5CmLwYAU9PZDMITZoR5iAOShYREoR45EyyLrbntV50mdePTgUn4AmOw90Ifcj+x2kRjdzr1HP3RrNiHGA==}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
 
   '@floating-ui/core@1.7.3':
     resolution: {integrity: sha512-sGnvb5dmrJaKEZ+LDIpguvdX3bDlEllmv4/ClQ9awcmCZrlx5jQyyMWFM5kBI+EyNOCDDiKk8il0zeuX3Zlg/w==}
@@ -1223,13 +1202,8 @@ packages:
     peerDependencies:
       postcss: ^8.1.0
 
-<<<<<<< HEAD
   baseline-browser-mapping@2.9.11:
     resolution: {integrity: sha512-Sg0xJUNDU1sJNGdfGWhVHX0kkZ+HWcvmVymJbj6NSgZZmW/8S9Y2HQ5euytnIgakgxN6papOAWiwDo1ctFDcoQ==}
-=======
-  baseline-browser-mapping@2.9.7:
-    resolution: {integrity: sha512-k9xFKplee6KIio3IDbwj+uaCLpqzOwakOgmqzPezM0sFJlFKcg30vk2wOiAJtkTSfx0SSQDSe8q+mWA/fSH5Zg==}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     hasBin: true
 
   browserslist@4.28.1:
@@ -1241,13 +1215,8 @@ packages:
     resolution: {integrity: sha512-8SFQbg/0hQ9xy3UNTB0YEnsNBbWfhf7RtnzpL7TkBiTBRfrQ9Fxcnz7VJsleJpyp6rVLvXiuORqjlHi5q+PYuA==}
     engines: {node: '>=10.16.0'}
 
-<<<<<<< HEAD
   caniuse-lite@1.0.30001762:
     resolution: {integrity: sha512-PxZwGNvH7Ak8WX5iXzoK1KPZttBXNPuaOvI2ZYU7NrlM+d9Ov+TUvlLOBNGzVXAntMSMMlJPd+jY6ovrVjSmUw==}
-=======
-  caniuse-lite@1.0.30001760:
-    resolution: {integrity: sha512-7AAMPcueWELt1p3mi13HR/LHH0TJLT11cnwDJEs3xA4+CK/PLKeO9Kl1oru24htkyUKtkGCvAx4ohB0Ttry8Dw==}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
 
   class-variance-authority@0.7.1:
     resolution: {integrity: sha512-Ka+9Trutv7G8M6WT6SeiRWz792K5qEqIGEGzXKhAE6xOWAY6pPH8U+9IY3oCMv6kqTmLsv7Xh/2w2RigkePMsg==}
@@ -1564,13 +1533,8 @@ packages:
     peerDependencies:
       react: ^19.2.3
 
-<<<<<<< HEAD
   react-hook-form@7.70.0:
     resolution: {integrity: sha512-COOMajS4FI3Wuwrs3GPpi/Jeef/5W1DRR84Yl5/ShlT3dKVFUfoGiEZ/QE6Uw8P4T2/CLJdcTVYKvWBMQTEpvw==}
-=======
-  react-hook-form@7.68.0:
-    resolution: {integrity: sha512-oNN3fjrZ/Xo40SWlHf1yCjlMK417JxoSJVUXQjGdvdRCU07NTFei1i1f8ApUAts+IVh14e4EdakeLEA+BEAs/Q==}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     engines: {node: '>=18.0.0'}
     peerDependencies:
       react: ^16.8.0 || ^17 || ^18 || ^19
@@ -1720,13 +1684,8 @@ packages:
   undici-types@6.21.0:
     resolution: {integrity: sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==}
 
-<<<<<<< HEAD
   update-browserslist-db@1.2.3:
     resolution: {integrity: sha512-Js0m9cx+qOgDxo0eMiFGEueWztz+d4+M3rGlmKPT+T4IS/jP4ylw3Nwpu6cpTTP8R1MAC1kF4VbdLt3ARf209w==}
-=======
-  update-browserslist-db@1.2.2:
-    resolution: {integrity: sha512-E85pfNzMQ9jpKkA7+TJAi4TJN+tBCuWh5rUcS/sv6cFi+1q9LYDwDI5dpUL0u/73EElyQ8d3TEaeW4sPedBqYA==}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     hasBin: true
     peerDependencies:
       browserslist: '>= 4.21.0'
@@ -1756,20 +1715,6 @@ packages:
     peerDependencies:
       react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
 
-<<<<<<< HEAD
-  vaul@0.9.9:
-    resolution: {integrity: sha512-7afKg48srluhZwIkaU+lgGtFCUsYBSGOl8vcc8N/M3YQlZFlynHD15AE+pwrYdc826o7nrIND4lL9Y6b9WWZZQ==}
-    peerDependencies:
-      react: ^16.8 || ^17.0 || ^18.0
-      react-dom: ^16.8 || ^17.0 || ^18.0
-=======
-  vaul@1.1.2:
-    resolution: {integrity: sha512-ZFkClGpWyI2WUQjdLJ/BaGuV6AVQiJ3uELGk3OYtP+B6yCO7Cmn9vPFXVJkRaGkOJu3m8bQMgtyzNHixULceQA==}
-    peerDependencies:
-      react: ^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc
-      react-dom: ^16.8 || ^17.0 || ^18.0 || ^19.0.0 || ^19.0.0-rc
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
-
   victory-vendor@36.9.2:
     resolution: {integrity: sha512-PnpQQMuxlwYdocC8fIJqVXvkeViHYzotI+NJrCuav0ZYFoq912ZHBk3mCeuj+5/VpodOjPe1z0Fk2ihgzlXqjQ==}
 
@@ -1784,11 +1729,7 @@ snapshots:
 
   '@date-fns/tz@1.2.0': {}
 
-<<<<<<< HEAD
   '@emnapi/runtime@1.8.1':
-=======
-  '@emnapi/runtime@1.7.1':
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     dependencies:
       tslib: 2.8.1
     optional: true
@@ -1810,15 +1751,9 @@ snapshots:
 
   '@floating-ui/utils@0.2.10': {}
 
-<<<<<<< HEAD
   '@hookform/resolvers@3.10.0(react-hook-form@7.70.0(react@19.2.3))':
     dependencies:
       react-hook-form: 7.70.0(react@19.2.3)
-=======
-  '@hookform/resolvers@3.10.0(react-hook-form@7.68.0(react@19.2.3))':
-    dependencies:
-      react-hook-form: 7.68.0(react@19.2.3)
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
 
   '@img/sharp-darwin-arm64@0.33.5':
     optionalDependencies:
@@ -1886,11 +1821,7 @@ snapshots:
 
   '@img/sharp-wasm32@0.33.5':
     dependencies:
-<<<<<<< HEAD
       '@emnapi/runtime': 1.8.1
-=======
-      '@emnapi/runtime': 1.7.1
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     optional: true
 
   '@img/sharp-win32-ia32@0.33.5':
@@ -2761,17 +2692,12 @@ snapshots:
   autoprefixer@10.4.23(postcss@8.5.6):
     dependencies:
       browserslist: 4.28.1
-<<<<<<< HEAD
       caniuse-lite: 1.0.30001762
-=======
-      caniuse-lite: 1.0.30001760
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
       fraction.js: 5.3.4
       picocolors: 1.1.1
       postcss: 8.5.6
       postcss-value-parser: 4.2.0
 
-<<<<<<< HEAD
   baseline-browser-mapping@2.9.11: {}
 
   browserslist@4.28.1:
@@ -2781,27 +2707,12 @@ snapshots:
       electron-to-chromium: 1.5.267
       node-releases: 2.0.27
       update-browserslist-db: 1.2.3(browserslist@4.28.1)
-=======
-  baseline-browser-mapping@2.9.7: {}
-
-  browserslist@4.28.1:
-    dependencies:
-      baseline-browser-mapping: 2.9.7
-      caniuse-lite: 1.0.30001760
-      electron-to-chromium: 1.5.267
-      node-releases: 2.0.27
-      update-browserslist-db: 1.2.2(browserslist@4.28.1)
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
 
   busboy@1.6.0:
     dependencies:
       streamsearch: 1.1.0
 
-<<<<<<< HEAD
   caniuse-lite@1.0.30001762: {}
-=======
-  caniuse-lite@1.0.30001760: {}
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
 
   class-variance-authority@0.7.1:
     dependencies:
@@ -3023,11 +2934,7 @@ snapshots:
       '@swc/counter': 0.1.3
       '@swc/helpers': 0.5.15
       busboy: 1.6.0
-<<<<<<< HEAD
       caniuse-lite: 1.0.30001762
-=======
-      caniuse-lite: 1.0.30001760
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
       postcss: 8.4.31
       react: 19.2.3
       react-dom: 19.2.3(react@19.2.3)
@@ -3084,11 +2991,7 @@ snapshots:
       react: 19.2.3
       scheduler: 0.27.0
 
-<<<<<<< HEAD
   react-hook-form@7.70.0(react@19.2.3):
-=======
-  react-hook-form@7.68.0(react@19.2.3):
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     dependencies:
       react: 19.2.3
 
@@ -3237,11 +3140,7 @@ snapshots:
 
   undici-types@6.21.0: {}
 
-<<<<<<< HEAD
   update-browserslist-db@1.2.3(browserslist@4.28.1):
-=======
-  update-browserslist-db@1.2.2(browserslist@4.28.1):
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
     dependencies:
       browserslist: 4.28.1
       escalade: 3.2.0
@@ -3265,19 +3164,6 @@ snapshots:
   use-sync-external-store@1.6.0(react@19.2.3):
     dependencies:
       react: 19.2.3
-
-<<<<<<< HEAD
-  vaul@0.9.9(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3):
-=======
-  vaul@1.1.2(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3):
->>>>>>> 1cdb1ca66711a3a6eed649e57646c2031bbe079d
-    dependencies:
-      '@radix-ui/react-dialog': 1.1.4(@types/react-dom@19.2.3(@types/react@19.2.7))(@types/react@19.2.7)(react-dom@19.2.3(react@19.2.3))(react@19.2.3)
-      react: 19.2.3
-      react-dom: 19.2.3(react@19.2.3)
-    transitivePeerDependencies:
-      - '@types/react'
-      - '@types/react-dom'
 
   victory-vendor@36.9.2:
     dependencies:
